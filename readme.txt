@@ -1,5 +1,0 @@
-こんにちは,ブランチSourceTreeブランチに再度追加
-
-README1asdfa
-
-test
