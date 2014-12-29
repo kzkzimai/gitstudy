@@ -4,6 +4,8 @@ topic lineでコミット
 リベースのために　topic lineでコミットをおこないます.
 
 
+リベーステストのため　master側でコミット
+
 README1asdfa
 
 test
