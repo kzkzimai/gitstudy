@@ -3,7 +3,7 @@
 topic lineでコミット
 リベースのために　topic lineでコミットをおこないます
 
-リベーステストのため　master側でコミット 才への区
+リベーステストのため　master側でコミット。
 
 README1asdfa
 
